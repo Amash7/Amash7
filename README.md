@@ -10,7 +10,7 @@
 
 ## Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/amash-rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amash rizwan" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/amash-r-742a53264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amash rizwan" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/amash-rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amash rizwan" height="30" width="40" /></a>
 </p>
 
