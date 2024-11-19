@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MERN Stack and Natural Language Processing!](https://github.com/Amash7?tab=repositories)  
 - 🌱 I’m currently learning **Machine Learning**  
-- 👨‍💻 All of my projects are available [here](https://github.com/Amash7?tab=repositories)  
+- 👨‍💻 All of my projects are available [Here](https://github.com/Amash7?tab=repositories)  
 - 📫 How to reach me **amash32147@gmail.com**  
 - ⚡ Fun fact **I can read boring history as well!**  
 
@@ -91,11 +91,11 @@
 <div style="display: flex; align-items: center;">
   <div>
     <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="amash7" />
-    </p>  
-    <p>
       &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amash7&show_icons=true&locale=en&theme=graywhite" alt="amash7" />
-    </p>  
+    </p> 
+    <p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="amash7" />
+    </p>   
   </div>
 </div>
 
