@@ -91,11 +91,11 @@
 <div style="display: flex; align-items: center;">
   <div>
     <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="amash7" />
-    </p>  
-    <p>
       &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amash7&show_icons=true&locale=en&theme=graywhite" alt="amash7" />
     </p> 
+    <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="amash7" />
+    </p>  
   </div>
 </div>
 
