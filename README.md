@@ -2,7 +2,7 @@
 <h3 align="center">A Web Dev and Machine Learning enthusiast from Pakistan!</h3>  
 
 <div align="center">
-  <img align="right" src="![image](https://github.com/user-attachments/assets/9aaa18fa-e689-4375-85f3-471fb3e068bd)" alt="coding-gif" width="300"/>
+  <img align="right" src="[![image](https://github.com/user-attachments/assets/9aaa18fa-e689-4375-85f3-471fb3e068bd)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR5NTlxbW94OWhhdXVyZmR0emNrNTNmYWhvcjRuZ2YwY21lYjFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" alt="coding-gif" width="300"/>
 </div>
 
 - 🔭 I’m currently working on [MERN Stack and Natural Language Processing!](https://github.com/Amash7?tab=repositories)  
@@ -89,11 +89,11 @@
 </p>  
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact" alt="amash7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="amash7" />
 </p>  
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amash7&show_icons=true&locale=en" alt="amash7" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amash7&show_icons=true&locale=en&theme=graywhite" alt="amash7" />
 </p>
 
   </a>
