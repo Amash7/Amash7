@@ -2,7 +2,7 @@
 <h3 align="center">A Web Dev and Machine Learning enthusiast from Pakistan!</h3>  
 
 <div align="center">
-  <img align="right" src="[https://media.giphy.com/media/3o6ZsY2KEtxlZ1Fdw4/giphy.gif](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)" alt="coding-gif" width="300"/>
+  <img align="right" src="![image](https://github.com/user-attachments/assets/9aaa18fa-e689-4375-85f3-471fb3e068bd)" alt="coding-gif" width="300"/>
 </div>
 
 - 🔭 I’m currently working on [MERN Stack and Natural Language Processing!](https://github.com/Amash7?tab=repositories)  
@@ -76,9 +76,6 @@
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
