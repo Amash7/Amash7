@@ -2,12 +2,12 @@
 <h3 align="center">A Web Dev and Machine Learning enthusiast from Pakistan!</h3>  
 
 <div align="center">
-  <img align="right" src="https://media.giphy.com/media/3o6ZsY2KEtxlZ1Fdw4/giphy.gif" alt="coding-gif" width="300"/>
+  <img align="right" src="[https://media.giphy.com/media/3o6ZsY2KEtxlZ1Fdw4/giphy.gif](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)" alt="coding-gif" width="300"/>
 </div>
 
 - 🔭 I’m currently working on [MERN Stack and Natural Language Processing!](https://github.com/Amash7?tab=repositories)  
 - 🌱 I’m currently learning **Machine Learning**  
-- 👨‍💻 All of my projects are available at [https://github.com/Amash7?tab=repositories](https://github.com/Amash7?tab=repositories)  
+- 👨‍💻 All of my projects are available [here](https://github.com/Amash7?tab=repositories)  
 - 📫 How to reach me **amash32147@gmail.com**  
 - ⚡ Fun fact **I can read boring history as well!**  
 
