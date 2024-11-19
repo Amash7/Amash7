@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
-  <a href="https://linkedin.com/in/amash rizwan" target="blank">
+  <a href="https://linkedin.com/in/amashrizwan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amash rizwan" height="30" width="40" />
   </a> 
 </p>  
@@ -88,15 +88,16 @@
   </a> 
 </p>  
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="amash7" />
-</p>  
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amash7&show_icons=true&locale=en&theme=graywhite" alt="amash7" />
-</p>
-
-  </a>
+<div style="display: flex; align-items: center;">
+  <div>
+    <p>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amash7&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="amash7" />
+    </p>  
+    <p>
+      &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amash7&show_icons=true&locale=en&theme=graywhite" alt="amash7" />
+    </p>  
+  </div>
+  <img src="https://media.giphy.com/media/3o7aCV3gH0aXPiVt6w/giphy.gif" alt="GIF" width="200" style="margin-left: 20px;"/>
 </div>
 
 ###
