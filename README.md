@@ -5,10 +5,10 @@
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR5NTlxbW94OWhhdXVyZmR0emNrNTNmYWhvcjRuZ2YwY21lYjFpMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding-gif" width="300"/>
 </div>
 
-- 🔭 I’m currently working on [MERN Stack and Natural Language Processing!](https://github.com/Amash7?tab=repositories)  
-- 🌱 I’m currently learning **Machine Learning**  
+- 🔭 I’m currently working on [MERN Stack!](https://github.com/Amash7?tab=repositories)  
+- 🌱 I’m currently learning **Generative AI, Data Science and Applied Machine Learning**  
 - 👨‍💻 All of my projects are available [Here](https://github.com/Amash7?tab=repositories)  
-- 📫 How to reach me **amash32147@gmail.com**  
+- 📫 How to reach me **amash70@gmail.com**  
 - ⚡ Fun fact **I can read boring history as well!**  
 
 <h3 align="left">Connect with me:</h3> 
