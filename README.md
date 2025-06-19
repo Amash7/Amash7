@@ -13,7 +13,7 @@ I'm passionate about creating intelligent systems and beautiful web experiences.
 
 ### 📊 GitHub Stats
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amash7&theme=dracula) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amash7&theme=dracula) |
 |---|---|---|
 
 ---
