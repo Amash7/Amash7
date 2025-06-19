@@ -25,5 +25,6 @@ I'm passionate about creating intelligent systems and beautiful web experiences.
 ---
 
 ### 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/amashrizwan)  
+- [LinkedIn](https://www.linkedin.com/in/amashrizwan)
+- Email: amash70@yahoo.com
 
